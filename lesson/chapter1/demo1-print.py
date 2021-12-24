@@ -5,6 +5,7 @@ print(520)
 
 #可輸出小數
 print(98.5) 
+print(8.5)
 
 #可輸出字符串
 print('Hello world') 
